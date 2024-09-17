@@ -1,13 +1,13 @@
 <div align="center">
-  <h1 style="font-size: 48px;">Operating Systems</h1>
+  <h1 style="font-size: 60px;">Operating Systems</h1>
 </div>
 
 <img align="right" alt="Description" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW41Ym50MHhoejA3cGt4N2s2YWI4YjJ2em10dTY3Zmt1cWphbHY1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p style="font-size: 28px;"><b>Name:</b> N. Ravi Teja Reddy</p>
-<p style="font-size: 28px;"><b>Reg No:</b> 192210667</p>
-<p style="font-size: 28px;"><b>Course Code:</b> CSA0437</p>
-<p style="font-size: 28px;"><b>Course Name:</b> Operating Systems for Raspberry Pi 5</p>
+<p style="font-size: 32px;"><b>Name:</b> N. Ravi Teja Reddy</p>
+<p style="font-size: 32px;"><b>Reg No:</b> 192210667</p>
+<p style="font-size: 32px;"><b>Course Code:</b> CSA0437</p>
+<p style="font-size: 32px;"><b>Course Name:</b> Operating Systems for Raspberry Pi 5</p>
 
 <div style="max-width: 600px; margin-left: 20px;">
   <!-- You can include additional information or a description here if needed -->
