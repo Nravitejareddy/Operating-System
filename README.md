@@ -1,16 +1,14 @@
-# Operating Systems
+<div align="center">
+  <h1>Operating Systems</h1>
+</div>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<img align="right" alt="Description" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW41Ym50MHhoejA3cGt4N2s2YWI4YjJ2em10dTY3Zmt1cWphbHY1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-  <div>
-    <h1 style="font-size: 36px;">N. Ravi Teja Reddy</h1>
-    <p style="font-size: 24px;">Reg No: 192210667</p>
-    <p style="font-size: 24px;">Course Code: CSA0437</p>
-    <p style="font-size: 24px;">Course Name: Operating Systems for Raspberry Pi 5</p>
-  </div>
+<p><b>Name:</b> N. Ravi Teja Reddy</p>
+<p><b>Reg No:</b> 192210667</p>
+<p><b>Course Code:</b> CSA0437</p>
+<p><b>Course Name:</b> Operating Systems for Raspberry Pi 5</p>
 
-  <div>
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW41Ym50MHhoejA3cGt4N2s2YWI4YjJ2em10dTY3Zmt1cWphbHY1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Description" style="width: 300px; height: auto;">
-  </div>
-
+<div style="max-width: 500px; margin-left: 20px;">
+  <!-- You can include additional information or a description here if needed -->
 </div>
